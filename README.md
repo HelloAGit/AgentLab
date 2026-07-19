@@ -1,5 +1,5 @@
 # AgentLab
-AgentLab
+
 AgentLab/
 ├─ README.md
 ├─ LICENSE
